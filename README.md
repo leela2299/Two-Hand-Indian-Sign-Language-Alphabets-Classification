@@ -9,6 +9,8 @@ Currently, a lot of research is going in the field of sign language recognition.
 
 The Dataset consists of 26 classes eaching representing the english alphabet. Sample image of each englishg alphabet is shown below.
 
+<img src = "handcollage.png">
+
 
 
 
