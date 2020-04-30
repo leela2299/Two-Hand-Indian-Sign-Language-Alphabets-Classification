@@ -8,6 +8,7 @@ Currently, a lot of research is going in the field of sign language recognition.
 ## Dataset Description.
 
 The Dataset consists of 26 classes eaching representing the english alphabet. Sample image of each english alphabet is shown below.
+Dataset is avaliable on request(leelasuryatejam@gmail.com(
 
 <img src = "handcollage.png">
 
