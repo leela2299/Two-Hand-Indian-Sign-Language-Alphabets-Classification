@@ -8,12 +8,14 @@ Currently, a lot of research is going in the field of sign language recognition.
 ## Dataset Description.
 
 The Dataset consists of 26 classes eaching representing the english alphabet. Sample image of each english alphabet is shown below.
-Dataset is avaliable on request(leelasuryatejam@gmail.com(
+Dataset is avaliable on request(leelasuryatejam@gmail.com)
 
 <img src = "handcollage.png">
 
 ## Running 
 To run this project, perform following steps
+
+Dataset is available on request to (leelasuryatejam@gmail.com)
 
 1. Run the HOG_Feature extraction.m file by setting path to train and test dataset. Ouput of this code will generate training features, test features, training labels and test lables stored in .mat file.
 
