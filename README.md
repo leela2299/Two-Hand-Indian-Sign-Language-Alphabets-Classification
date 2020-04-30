@@ -11,10 +11,14 @@ The Dataset consists of 26 classes eaching representing the english alphabet. Sa
 
 <img src = "handcollage.png">
 
+## Running 
+To run this project, perform following steps
 
+1. Run the HOG_Feature extraction.m file by setting path to train and test dataset. Ouput of this code will generate training features, test features, training labels and test lables stored in .mat file.
 
+2. Run the classification_mat.m(knn,svm,Ada Boost,logistic regression,naive bayes,Discriminant analysis)file by importing features and labels of mat files generated from above step. Ouput of this code will generate accuracy.mat file which stores the accuracy of classifiers. 
 
-
+Note: img_preprocessing.m(img-> HSV-> Skin Mask->Dilation-> gray scale) and accurate.m are the function files.
 
 ## Work Flow
 
